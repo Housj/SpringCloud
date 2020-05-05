@@ -1,4 +1,4 @@
 
 
-练习SpringCloud各种功能
+SpringCloud项目练习
 
