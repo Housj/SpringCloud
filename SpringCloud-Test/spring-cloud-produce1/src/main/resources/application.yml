@@ -1,0 +1,13 @@
+server:
+  port: 9091
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8000/eureka/
+  instance:
+    ip-address: true
+
+spring:
+  application:
+    name: spring-cloud-producer
