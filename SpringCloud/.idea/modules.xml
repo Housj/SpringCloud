@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-api/spring-cloud-api.iml" filepath="$PROJECT_DIR$/spring-cloud-api/spring-cloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client/spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-client-github/spring-cloud-config-client-github.iml" filepath="$PROJECT_DIR$/spring-cloud-config-client-github/spring-cloud-config-client-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server-github/spring-cloud-config-server-github.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server-github/spring-cloud-config-server-github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer1/spring-cloud-consumer1.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer1/spring-cloud-consumer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer2/spring-cloud-consumer2.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer2/spring-cloud-consumer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway-zuul/spring-cloud-gateway-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-gateway-zuul/spring-cloud-gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard-turbine/spring-cloud-hystrix-dashboard-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix-dashboard-turbine/spring-cloud-hystrix-dashboard-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-produce1/spring-cloud-produce1.iml" filepath="$PROJECT_DIR$/spring-cloud-produce1/spring-cloud-produce1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-produce2/spring-cloud-produce2.iml" filepath="$PROJECT_DIR$/spring-cloud-produce2/spring-cloud-produce2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/spring-cloud-zipkin/spring-cloud-zipkin.iml" />
+    </modules>
+  </component>
+</project>

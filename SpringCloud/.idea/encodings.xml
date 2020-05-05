@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-client-github" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-config-server-github" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consumer1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-consumer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-hystrix-dashboard-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-produce1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-produce2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zipkin" charset="UTF-8" />
+  </component>
+</project>

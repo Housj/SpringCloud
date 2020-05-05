@@ -1,0 +1,16 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8001/
+      label: master
+      discovery:
+        enabled: true
+        service-id: spring-cloud-config-server
+      profile: dev
+      name: neo-config
+
